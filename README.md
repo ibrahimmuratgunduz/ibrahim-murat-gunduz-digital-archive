@@ -25,10 +25,10 @@ Digital media archive, visual projects, combat sports publications, independent 
 
 ## 📰 Media & Publications
 
-- https://teletype.in/@ibrahimmuratgunduz/ZHLicij7Mdi
+- https://ibrahimmuratgunduz.writizzy.com
 - https://telegra.ph/zypid-archive---ibrahim-murat-gunduz-media-collection-05-10
-- https://www.keepandshare.com/doc6/43828/zypid-archive-ibrahim-murat-gunduz-media-collection
-- https://zypid.com/search.php?q=ibrahim+murat+gunduz
+- https://dev.to/ibrahimmuratgunduz
+- https://ibrahimmuratgunduz01.blogspot.com/
 
 ---
 
@@ -63,8 +63,7 @@ Digital media archive, visual projects, combat sports publications, independent 
 
 - https://www.vidlii.com/watch?v=moGb2nZunND
 - https://www.vidlii.com/watch?v=BX8D0gNWAr7
-- https://kvisit.com/WA/r9W2AQ/Ag
-- https://kvisit.com/OQ/tdYC
+  
 
 ---
 
