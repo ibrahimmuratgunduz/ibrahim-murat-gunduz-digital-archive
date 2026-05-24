@@ -45,6 +45,16 @@ Digital media archive, visual projects, combat sports publications, independent 
 - https://savee.com/i/qjHEuzH/
 - https://savee.com/i/o_Ki_Pr/
 
+### ArtStation Portfolio
+
+- https://www.artstation.com/artwork/5WQeBW
+- https://www.artstation.com/artwork/mArvx1
+- https://www.artstation.com/artwork/2BDZ5Y
+- https://www.artstation.com/artwork/ZlNq98
+- https://www.artstation.com/artwork/JrodXz
+- https://www.artstation.com/artwork/1NKyAq
+- https://www.artstation.com/artwork/bg2q2g
+- https://www.artstation.com/artwork/Gv4l4W
 ---
 
 ## 📷 YouPic Archive
@@ -63,7 +73,7 @@ Digital media archive, visual projects, combat sports publications, independent 
 
 - https://www.vidlii.com/watch?v=moGb2nZunND
 - https://www.vidlii.com/watch?v=BX8D0gNWAr7
-  
+- https://www.vidlii.com/watch?v=B6fVXJnMe3D
 
 ---
 
@@ -75,6 +85,34 @@ Digital media archive, visual projects, combat sports publications, independent 
 - https://spordakika.com/ibrahim-murat-gunduz-bu-sadece-bir-mucadele-degil-turk-karakterinin-savas-meydanina-yansimasi-24901.html
 - https://www.slideshare.net/slideshow/tasidigim-yara-izlerinin-hicbiri-parkta-oynarken-olmadi-ibrahim-murat-gunduz-sozleri/287336271
 - https://www.slideshare.net/slideshow/ibrahim-murat-gunduzden-cok-konusulan-soz-dusmana-aciyan-kendine-mezar-kazar/287246643
+-
+## ⚔️ Warrior Ethos Archive
+
+### Doctrine Publications
+
+- https://www.gweb.com/article/ibrahim-murat-gunduzden-yeni-warrior-ethos-doktrini-bozkurt-doktrini/
+
+### Mastodon Publications
+
+- https://mastodon.social/@ibrahimmuratgunduz/116630171640390131
+- https://mastodon.social/@ibrahimmuratgunduz/116630199669721006
+- https://mastodon.social/@ibrahimmuratgunduz/116625206107881901
+- https://mastodon.social/@ibrahimmuratgunduz/116625210693909180
+- https://mastodon.social/@ibrahimmuratgunduz/116630034608051940
+
+### Telegraph Archive
+
+- https://telegra.ph/Ibrahim-Murat-Gunduzun-Warrior-Ethos-Kulliyati-Doktrinler-ve-Dijital-Arsiv-05-23
+
+### Keep & Share Archives
+
+- https://www.keepandshare.com/doc6/43839/ibrahim-murat-gunduz-warrior-ethos-psychological-resilience-and-cinematic-philosophy-archive
+
+- https://www.keepandshare.com/doc6/43836/ibrahim-murat-gunduz-visual-philosophy-archive
+
+### DEV Community Archive
+
+- https://dev.to/ibrahimmuratgunduz/ibrahim-murat-gunduz-and-warrior-ethos-doctrines-character-psychological-resilience-and-the-15j9
 
 ---
 
