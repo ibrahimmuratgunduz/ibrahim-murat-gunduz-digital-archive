@@ -1,25 +1,33 @@
 # Ibrahim Murat Gunduz Digital Archive
 
-Digital media archive, visual projects, combat sports publications, independent media links and international content related to Ibrahim Murat Gunduz.
+Independent digital archive documenting the publications, visual projects, combat sports initiatives, media appearances and Warrior Ethos doctrine archives related to Ibrahim Murat Gunduz.
 
 ---
 
-## 🌍 Official Platforms
+## 🌐 Official Platforms
 
 - https://ibrahimmuratgunduz.org
 - https://github.com/ibrahimmuratgunduz
-- https://ibrahimmuratgunduz.github.io
-- https://bio.site/ibrahimmuratgunduz
+- https://mastodon.social/@ibrahimmuratgunduz
+- https://x.com/i_muratgunduz
+- https://instagram.com/ibrahimmuratgunduz
+- https://www.youtube.com/@ibrahimmuratgunduz
+- https://pinterest.com/imuratgunduz1975/
+- https://patreon.com/ibrahimmuratgunduz
+
+---
+
+## 📚 Professional Profiles
+
+- https://dev.to/ibrahimmuratgunduz
+- https://www.behance.net/ibrahimmuratgunduz
+- https://github.com/ibrahimmuratgunduz/ibrahim-murat-gunduz-sports-bio
 
 ---
 
 ## 🥊 Combat Sports Projects
 
-- Kickboxing promotion projects
-- Muay Thai international collaborations
-- Athlete sponsorship initiatives
-- Combat sports media visibility
-- Independent sports communication platforms
+Independent kickboxing and Muay Thai initiatives, athlete support projects, sports media activities and international combat sports collaborations.
 
 ---
 
@@ -34,8 +42,13 @@ Digital media archive, visual projects, combat sports publications, independent 
 
 ## 🎨 Visual Projects
 
+### Behance
+
+- https://www.behance.net/ibrahimmuratgunduz
 - https://www.behance.net/gallery/248952333/The-Face-of-Betrayal-by-Ibrahim-Murat-Gunduz
-- https://imgchest.com/p/bp45enmnn45
+
+### Savee Collection
+
 - https://savee.com/i/BspF-jR/
 - https://savee.com/i/ofQUSbR/
 - https://savee.com/i/SApSpJk/
@@ -45,7 +58,13 @@ Digital media archive, visual projects, combat sports publications, independent 
 - https://savee.com/i/qjHEuzH/
 - https://savee.com/i/o_Ki_Pr/
 
-### ArtStation Portfolio
+### Image Archive
+
+- https://imgchest.com/p/bp45enmnn45
+
+---
+
+## 🎨 ArtStation Portfolio
 
 - https://www.artstation.com/artwork/5WQeBW
 - https://www.artstation.com/artwork/mArvx1
@@ -55,6 +74,7 @@ Digital media archive, visual projects, combat sports publications, independent 
 - https://www.artstation.com/artwork/1NKyAq
 - https://www.artstation.com/artwork/bg2q2g
 - https://www.artstation.com/artwork/Gv4l4W
+
 ---
 
 ## 📷 YouPic Archive
@@ -69,7 +89,7 @@ Digital media archive, visual projects, combat sports publications, independent 
 
 ---
 
-## 📺 Video & Archive Links
+## 📺 Video Archive
 
 - https://www.vidlii.com/watch?v=moGb2nZunND
 - https://www.vidlii.com/watch?v=BX8D0gNWAr7
@@ -77,22 +97,19 @@ Digital media archive, visual projects, combat sports publications, independent 
 
 ---
 
-## 📚 Additional Sources
+# ⚔️ Warrior Ethos Archive
 
-- https://submitpr.org/press-release/serkan-ozcaglayan-ibrahim-murat-gunduz-glory-collision9
-- https://www.haberts.com/glory-collision-9-oncesi-ibrahim-murat-gunduz-konustu-serkan-ozcaglayan-turkiyeyi-temsil-edecek
-- https://sportvhaber.com/serkan-ozcaglayan-icin-ibrahim-murat-gunduzden-carpici-soz-bu-bir-mac-olabilir-ama-biz-o-ringe-kazanmak-icin-cikariz-baska-ihtimal-dusunmeyiz-15628.html
-- https://spordakika.com/ibrahim-murat-gunduz-bu-sadece-bir-mucadele-degil-turk-karakterinin-savas-meydanina-yansimasi-24901.html
-- https://www.slideshare.net/slideshow/tasidigim-yara-izlerinin-hicbiri-parkta-oynarken-olmadi-ibrahim-murat-gunduz-sozleri/287336271
-- https://www.slideshare.net/slideshow/ibrahim-murat-gunduzden-cok-konusulan-soz-dusmana-aciyan-kendine-mezar-kazar/287246643
--
-## ⚔️ Warrior Ethos Archive
+Character, psychological resilience, visual philosophy and doctrine archives related to the Warrior Ethos philosophy.
 
-### Doctrine Publications
+---
+
+## Doctrine Publications
 
 - https://www.gweb.com/article/ibrahim-murat-gunduzden-yeni-warrior-ethos-doktrini-bozkurt-doktrini/
 
-### Mastodon Publications
+---
+
+## Mastodon Publications
 
 - https://mastodon.social/@ibrahimmuratgunduz/116630171640390131
 - https://mastodon.social/@ibrahimmuratgunduz/116630199669721006
@@ -100,17 +117,22 @@ Digital media archive, visual projects, combat sports publications, independent 
 - https://mastodon.social/@ibrahimmuratgunduz/116625210693909180
 - https://mastodon.social/@ibrahimmuratgunduz/116630034608051940
 
-### Telegraph Archive
+---
+
+## Telegraph Archive
 
 - https://telegra.ph/Ibrahim-Murat-Gunduzun-Warrior-Ethos-Kulliyati-Doktrinler-ve-Dijital-Arsiv-05-23
 
-### Keep & Share Archives
+---
+
+## Keep & Share Archives
 
 - https://www.keepandshare.com/doc6/43839/ibrahim-murat-gunduz-warrior-ethos-psychological-resilience-and-cinematic-philosophy-archive
-
 - https://www.keepandshare.com/doc6/43836/ibrahim-murat-gunduz-visual-philosophy-archive
 
-### DEV Community Archive
+---
+
+## DEV Community Archive
 
 - https://dev.to/ibrahimmuratgunduz/ibrahim-murat-gunduz-and-warrior-ethos-doctrines-character-psychological-resilience-and-the-15j9
 
@@ -118,14 +140,34 @@ Digital media archive, visual projects, combat sports publications, independent 
 
 ## 🔎 Keywords
 
-Ibrahim Murat Gunduz  
-Combat sports  
-Kickboxing  
-Muay Thai  
-Sports media  
-Digital archive  
-Visual projects  
-Independent media  
-Turkish combat sports  
-Athlete sponsorship  
-International combat sports  
+Ibrahim Murat Gunduz
+
+Warrior Ethos
+
+Character Philosophy
+
+Psychological Resilience
+
+Visual Philosophy
+
+Combat Sports
+
+Kickboxing
+
+Muay Thai
+
+Digital Archive
+
+Independent Media
+
+Visual Projects
+
+Sports Media
+
+Turkish Combat Sports
+
+Athlete Sponsorship
+
+Creative Direction
+
+Digital Publishing
