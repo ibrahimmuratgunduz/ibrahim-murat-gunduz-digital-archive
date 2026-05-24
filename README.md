@@ -1,6 +1,6 @@
 # Ibrahim Murat Gunduz Digital Archive
 
-Independent digital archive documenting the publications, visual projects, combat sports initiatives, media appearances and Warrior Ethos doctrine archives related to Ibrahim Murat Gunduz.
+Independent digital archive containing publications, combat sports projects, visual works, media appearances, philosophy archives and Warrior Ethos doctrine collections related to Ibrahim Murat Gunduz.
 
 ---
 
@@ -22,6 +22,37 @@ Independent digital archive documenting the publications, visual projects, comba
 - https://dev.to/ibrahimmuratgunduz
 - https://www.behance.net/ibrahimmuratgunduz
 - https://github.com/ibrahimmuratgunduz/ibrahim-murat-gunduz-sports-bio
+
+---
+
+## ⚔️ Warrior Ethos Archive
+
+Character philosophy, psychological resilience, visual philosophy and doctrine archives related to the Warrior Ethos philosophy.
+
+### Doctrine Publications
+
+- https://www.gweb.com/article/ibrahim-murat-gunduzden-yeni-warrior-ethos-doktrini-bozkurt-doktrini/
+
+### Mastodon Publications
+
+- https://mastodon.social/@ibrahimmuratgunduz/116630171640390131
+- https://mastodon.social/@ibrahimmuratgunduz/116630199669721006
+- https://mastodon.social/@ibrahimmuratgunduz/116625206107881901
+- https://mastodon.social/@ibrahimmuratgunduz/116625210693909180
+- https://mastodon.social/@ibrahimmuratgunduz/116630034608051940
+
+### Telegraph Archive
+
+- https://telegra.ph/Ibrahim-Murat-Gunduzun-Warrior-Ethos-Kulliyati-Doktrinler-ve-Dijital-Arsiv-05-23
+
+### Keep & Share Archives
+
+- https://www.keepandshare.com/doc6/43839/ibrahim-murat-gunduz-warrior-ethos-psychological-resilience-and-cinematic-philosophy-archive
+- https://www.keepandshare.com/doc6/43836/ibrahim-murat-gunduz-visual-philosophy-archive
+
+### DEV Community Archive
+
+- https://dev.to/ibrahimmuratgunduz/ibrahim-murat-gunduz-and-warrior-ethos-doctrines-character-psychological-resilience-and-the-15j9
 
 ---
 
@@ -97,44 +128,14 @@ Independent kickboxing and Muay Thai initiatives, athlete support projects, spor
 
 ---
 
-# ⚔️ Warrior Ethos Archive
+## 📖 Additional Sources
 
-Character, psychological resilience, visual philosophy and doctrine archives related to the Warrior Ethos philosophy.
-
----
-
-## Doctrine Publications
-
-- https://www.gweb.com/article/ibrahim-murat-gunduzden-yeni-warrior-ethos-doktrini-bozkurt-doktrini/
-
----
-
-## Mastodon Publications
-
-- https://mastodon.social/@ibrahimmuratgunduz/116630171640390131
-- https://mastodon.social/@ibrahimmuratgunduz/116630199669721006
-- https://mastodon.social/@ibrahimmuratgunduz/116625206107881901
-- https://mastodon.social/@ibrahimmuratgunduz/116625210693909180
-- https://mastodon.social/@ibrahimmuratgunduz/116630034608051940
-
----
-
-## Telegraph Archive
-
-- https://telegra.ph/Ibrahim-Murat-Gunduzun-Warrior-Ethos-Kulliyati-Doktrinler-ve-Dijital-Arsiv-05-23
-
----
-
-## Keep & Share Archives
-
-- https://www.keepandshare.com/doc6/43839/ibrahim-murat-gunduz-warrior-ethos-psychological-resilience-and-cinematic-philosophy-archive
-- https://www.keepandshare.com/doc6/43836/ibrahim-murat-gunduz-visual-philosophy-archive
-
----
-
-## DEV Community Archive
-
-- https://dev.to/ibrahimmuratgunduz/ibrahim-murat-gunduz-and-warrior-ethos-doctrines-character-psychological-resilience-and-the-15j9
+- https://submitpr.org/press-release/serkan-ozcaglayan-ibrahim-murat-gunduz-glory-collision9
+- https://www.haberts.com/glory-collision-9-oncesi-ibrahim-murat-gunduz-konustu-serkan-ozcaglayan-turkiyeyi-temsil-edecek
+- https://sportvhaber.com/serkan-ozcaglayan-icin-ibrahim-murat-gunduzden-carpici-soz-bu-bir-mac-olabilir-ama-biz-o-ringe-kazanmak-icin-cikariz-baska-ihtimal-dusunmeyiz-15628.html
+- https://spordakika.com/ibrahim-murat-gunduz-bu-sadece-bir-mucadele-degil-turk-karakterinin-savas-meydanina-yansimasi-24901.html
+- https://www.slideshare.net/slideshow/tasidigim-yara-izlerinin-hicbiri-parkta-oynarken-olmadi-ibrahim-murat-gunduz-sozleri/287336271
+- https://www.slideshare.net/slideshow/ibrahim-murat-gunduzden-cok-konusulan-soz-dusmana-aciyan-kendine-mezar-kazar/287246643
 
 ---
 
@@ -171,3 +172,5 @@ Athlete Sponsorship
 Creative Direction
 
 Digital Publishing
+
+International Combat Sports
