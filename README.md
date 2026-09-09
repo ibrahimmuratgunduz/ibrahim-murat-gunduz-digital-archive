@@ -9,13 +9,8 @@ Independent digital archive containing publications, combat sports projects, vis
 - https://ibrahimmuratgunduz.org
 - https://github.com/ibrahimmuratgunduz
 - https://mastodon.social/@ibrahimmuratgunduz
-- https://x.com/i_muratgunduz
 - https://instagram.com/ibrahimmuratgunduz
 - https://www.youtube.com/@ibrahimmuratgunduz
-- https://pinterest.com/imuratgunduz1975/
-- https://patreon.com/ibrahimmuratgunduz
-
----
 
 ## 📚 Professional Profiles
 
